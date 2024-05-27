@@ -27,6 +27,7 @@
   <img height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
   <img height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"/>
   <img height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"/>
+  <img height="50" width="50" src="[https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg](https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/unity/unity-original.svg)"/>
 
 </div>
 
