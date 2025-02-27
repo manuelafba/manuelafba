@@ -8,7 +8,7 @@
 
 - 💻 I'm majoring in Computer Science at the Federal University of Pará (UFPA).
 
-- 📚 I'm currently focused on learning Web Development and C++.
+- 📚 I'm currently focused on learning Web Development and Java.
 
 <h2>📊 Github stats:</h2>
 <div align="center">
